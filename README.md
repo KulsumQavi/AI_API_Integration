@@ -13,13 +13,15 @@
 <img width="524" height="181" alt="image" src="https://github.com/user-attachments/assets/eeb03abc-9ad9-49f9-974e-eeffdefdbf5f" />
 
 
-#Output Og HuggingFace
+#Output of HuggingFace
 
 
 
 <img width="524" height="195" alt="image" src="https://github.com/user-attachments/assets/032dfc49-b263-459e-abd8-97bd7c1df401" />
 <img width="523" height="179" alt="image" src="https://github.com/user-attachments/assets/9aa2c506-2e48-4dde-8d45-448cc6995224" />
 <img width="522" height="170" alt="image" src="https://github.com/user-attachments/assets/22013e64-ff4e-4dab-b5bd-63fffc4a39c6" />
+
+
 
 
 #Output Of Cohere
